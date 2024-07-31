@@ -1,4 +1,3 @@
-// Define the strategy interfaces
 interface AddingIngredientsBehaviour {
     void addingIngredients();
 }
